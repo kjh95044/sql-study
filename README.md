@@ -44,17 +44,17 @@ SQL 스터디 기록
 ### 🚩 week 3
 | Type | 문제 | 제목 | 유형 | Rank |
 | -- |--| -- |--|--|
-| PRG | 133027 | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117) | JOIN | LV4 |
-| PRG | 157340 | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856) | GROUP BY | LV4 |
+| PRG | 131117 | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117) | JOIN | LV4 |
+| PRG | 144856 | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856) | GROUP BY | LV4 |
 
 ### 🚩 week 4
 | Type | 문제 | 제목 | 유형 | Rank |
 | -- |--| -- |--|--|
-| PRG | 133027 | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | JOIN | LV2 |
-| PRG | 157340 | [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116) | GROUP BY | LV4 |
+| PRG | 144854 | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | JOIN | LV2 |
+| PRG | 131116 | [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116) | GROUP BY | LV4 |
 
 ### 🚩 week 5
 | Type | 문제 | 제목 | 유형 | Rank |
 | -- |--| -- |--|--|
-| PRG | 133027 | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) | JOIN | LV4 |
-| PRG | 157340 | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | GROUP BY | LV3 |
+| PRG | 131124 | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) | JOIN | LV4 |
+| PRG | 131123 | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | GROUP BY | LV3 |

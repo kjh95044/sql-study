@@ -1,0 +1,18 @@
+-- 코드를 입력하세요
+SELECT 
+    CATEGORY,
+    PRICE AS MAX_PRICE,
+    PRODUCT_NAME
+    FROM(
+        SELECT
+        PRODUCT_ID,
+        PRODUCT_NAME,
+        PRODUCT_CD,
+        CATEGORY,
+        PRICE,
+        ROW_NUMBER() OVER (PARTITION BY CATEGORY ORDER BY PRICE DESC) as SEQ
+    FROM FOOD_PRODUCT
+    WHERE CATEGORY IN ('과자', '국', '김치', '식용유')
+) SUB_TABLE
+WHERE SEQ = 1
+ORDER BY PRICE DESC

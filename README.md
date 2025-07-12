@@ -58,3 +58,23 @@ SQL 스터디 기록
 | -- |--| -- |--|--|
 | PRG | 131124 | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) | JOIN | LV4 |
 | PRG | 131123 | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | GROUP BY | LV3 |
+
+### 🚩 week 6
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 59042 | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042) | JOIN | LV3 |
+| PRG | 132202 | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | GROUP BY | LV2 |
+
+### 🚩 week 7
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 59043 | [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | JOIN | LV3 |
+| PRG | 151137 | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) | GROUP BY | LV2 |
+
+### 🚩 week 8
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 59044 | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | JOIN | LV3 |
+| PRG | 151137 | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) | GROUP BY | LV2 |
+
+

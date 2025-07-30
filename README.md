@@ -75,6 +75,6 @@ SQL 스터디 기록
 | Type | 문제 | 제목 | 유형 | Rank |
 | -- |--| -- |--|--|
 | PRG | 59044 | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | JOIN | LV3 |
-| PRG | 151137 | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) | GROUP BY | LV2 |
+| PRG | 133026 | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026) | GROUP BY | LV2 |
 
 

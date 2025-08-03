@@ -77,4 +77,28 @@ SQL 스터디 기록
 | PRG | 59044 | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | JOIN | LV3 |
 | PRG | 133026 | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026) | GROUP BY | LV2 |
 
+### 🚩 week 9
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 59045 | [보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045) | JOIN | LV4 |
+| PRG | 164668 | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) | GROUP BY | LV3 |
+
+### 🚩 week 10
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 131533 | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | JOIN | LV2 |
+| PRG | 144855 | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | GROUP BY | LV3 |
+
+### 🚩 week 11
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 131534 | [상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534) | JOIN | LV5 |
+| PRG | 59040 | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) | GROUP BY | LV2 |
+
+### 🚩 week 12
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 276035 | [FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035) | JOIN | LV4 |
+| PRG | 59041 | [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041) | GROUP BY | LV2 |
+
 

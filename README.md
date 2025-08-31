@@ -101,4 +101,38 @@ SQL 스터디 기록
 | PRG | 276035 | [FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035) | JOIN | LV4 |
 | PRG | 59041 | [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041) | GROUP BY | LV2 |
 
+### 🚩 week 13
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 131532 | [년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532) | GROUP BY | LV4 |
+| PRG | 59412 | [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) | GROUP BY | LV2 |
 
+### 🚩 week 14
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 59413 | [입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413) | GROUP BY | LV4 |
+| PRG | 131530 | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) | GROUP BY | LV2 |
+
+### 🚩 week 15
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 276036 | [언어별 개발자 분류하기](https://school.programmers.co.kr/learn/courses/30/lessons/276036) | GROUP BY | LV4 |
+| PRG | 284527 | [조건에 맞는 사원 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284527) | GROUP BY | LV2 |
+
+### 🚩 week 16
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 284528 | [연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284528) | GROUP BY | LV4 |
+| PRG | 284529 | [부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) | GROUP BY | LV3 |
+
+### 🚩 week 17
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 284531 | [노선별 평균 역 사이 거리 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284531) | GROUP BY | LV2 |
+| PRG | 293257 | [물고기 종류 별 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293257) | GROUP BY | LV2 |
+
+### 🚩 week 18
+| Type | 문제 | 제목 | 유형 | Rank |
+| -- |--| -- |--|--|
+| PRG | 293260 | [월별 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293260) | GROUP BY | LV2 |
+| PRG | 298519 | [특정 조건을 만족하는 물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298519) | GROUP BY | LV3 |

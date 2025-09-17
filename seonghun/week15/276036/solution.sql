@@ -1,0 +1,19 @@
+WITH SKILLCODE_LIST AS (
+    SELECT
+        (SELECT CODE FROM SKILLCODES WHERE NAME = 'Python') AS python,
+        (SELECT CODE FROM SKILLCODES WHERE NAME = 'C#') AS c_sharp,
+        (SELECT SUM(CODE) FROM SKILLCODES WHERE CATEGORY = 'Front End') AS front
+)
+
+SELECT
+    CASE WHEN (A.SKILL_CODE & B.front != 0) AND (A.SKILL_CODE & B.python != 0) THEN 'A'
+         WHEN A.SKILL_CODE & B.c_sharp != 0 THEN 'B'
+         ELSE 'C'
+    END AS GRADE,
+    A.ID,
+    A.EMAIL
+FROM DEVELOPERS AS A
+    CROSS JOIN SKILLCODE_LIST AS B
+WHERE (A.SKILL_CODE & B.c_sharp) = B.c_sharp
+   OR (A.SKILL_CODE & B.front) != 0
+ORDER BY GRADE, A.ID
